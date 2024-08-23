@@ -2,3 +2,6 @@ POO I
 POO II
 Base de datos
 Aplicaciones Web
+Ingenieria de Software
+Algoritmos
+Matematicas 
